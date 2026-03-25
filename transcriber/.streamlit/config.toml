@@ -1,0 +1,14 @@
+[general]
+unit_testing = false
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+port = 7860
+
+[runner]
+magicEnabled = true
+
+[theme]
+base="dark"
