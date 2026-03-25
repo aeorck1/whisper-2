@@ -25,7 +25,7 @@ dist/
 htmlcov/
 
 # Streamlit and local config/state
-.streamlit/secrets.toml
+# .streamlit/secrets.toml
 
 # Whisper/model and temp artifacts
 *.pt
@@ -41,4 +41,4 @@ Thumbs.db
 # Generated transcript exports
 *.docx
 *.pdf
-*.txt
+# *.txt
